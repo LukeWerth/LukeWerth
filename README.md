@@ -22,4 +22,5 @@ Here are some ideas to get you started:
   - Dance Marathon
   - ISU Blood Drive
   - Phi Kappa Psi fraternity
+- Some of my favorite hobbies include playing guitar, boating, and weight lifting
 - This semester, I am hoping to improve my general coding skills and become more comfortable with coding techniques I am likely to encounter in my career
