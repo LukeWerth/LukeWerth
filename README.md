@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- My name is Luke Werthmann, and I am from Des Moines, IA
+- I am a Junior majoring in Aerospace Engineering
+- I am involved in various extracirricular activities on campus, including:
+  - the Engineering Career Fair
+  - Dance Marathon
+  - ISU Blood Drive
+  - Phi Kappa Psi fraternity
+- This semester, I am hoping to improve my general coding skills and become more comfortable with coding techniques I am likely to encounter in my career
